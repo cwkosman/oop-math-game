@@ -1,0 +1,2 @@
+class Queston
+end
