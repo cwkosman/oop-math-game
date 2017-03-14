@@ -5,10 +5,10 @@ require './turn'
 
 # Test code
 
-chuck = Player.new
-p chuck
+# chuck = Player.new
+# p chuck
 
-test1 = Question.new
-p test1
+# test1 = Question.new
+# p test1
 
-test1.display_question
+MathGame::Game.new(2).start
